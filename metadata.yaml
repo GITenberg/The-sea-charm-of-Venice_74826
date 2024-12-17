@@ -1,0 +1,31 @@
+_repo: The-sea-charm-of-Venice_74826
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brooke, Stopford A. (Stopford Augustus)
+    alias: Brooke, Stopford Augustus
+    birthdate: 1832
+    deathdate: 1916
+    gutenberg_agent_id: '5468'
+    url: http://www.gutenberg.org/2009/agents/5468
+    wikipedia: https://en.wikipedia.org/wiki/Stopford_Brooke_(chaplain)
+description: ''
+gutenberg_issued: '2024-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74826'
+language: en
+pgterms:marc904: https://archive.org/details/seacharmofvenice00broo/page/n127/mode/2up
+pgterms:marc905: 20240224122750brooke
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Carla Foust and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bE. P. Dutton and Company, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The sea-charm of Venice
+url: http://www.gutenberg.org/ebooks/74826
